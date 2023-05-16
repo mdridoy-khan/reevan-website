@@ -8,6 +8,7 @@
     $('#mobile-menu').meanmenu({
         meanMenuContainer: '.mobile-menu',
         meanScreenWidth: "767",
+        meanMenuCloseSize: "25px",
     });
 /*---------------------------------------------------------------------------------------
     Data Background Active
